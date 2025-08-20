@@ -2,10 +2,11 @@
 Printf("Hello world");
 if(a>b){
 .......
+else
 
 }
 switch ()
-{ a
-  b
-  c
+{ a;
+  b;
+  c;
 }
