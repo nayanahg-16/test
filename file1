@@ -1,6 +1,6 @@
 #include
-<<<<<<< HEAD
 Printf("Hello world");
-=======
-Printf
->>>>>>> 1519bf5125d1d0c7a1b4532d2a48fdb5392dfa3b
+if(a>b){
+.......
+
+}
